@@ -29,8 +29,10 @@ return array(
 		),
 		*/
 	),
-
-	// application components
+  
+  'defaultController'=>'post',
+	
+  // application components
 	'components'=>array(
 
 		'user'=>array(
